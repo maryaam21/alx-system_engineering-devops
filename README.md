@@ -1,2 +1,1 @@
-#!/bin/bash
-sloving task 0
+not empty
